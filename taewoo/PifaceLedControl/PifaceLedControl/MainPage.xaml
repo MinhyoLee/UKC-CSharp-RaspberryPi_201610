@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="PifaceLedControl.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PifaceLedControl"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button x:Name="LedSwitch0" Content="switch0" HorizontalAlignment="Left" Margin="141,115,0,0" VerticalAlignment="Top" Click="LedSwitch_Click" Background="LightGray"/>
+        <Button x:Name="LedSwitch1" Content="switch1" HorizontalAlignment="Left" Margin="141,155,0,0" VerticalAlignment="Top" Click="LedSwitch_Click" Background="LightGray"/>
+        <Button x:Name="LedSwitch2" Content="switch2" HorizontalAlignment="Left" Margin="141,195,0,0" VerticalAlignment="Top" Click="LedSwitch_Click" Background="LightGray"/>
+        <Button x:Name="LedSwitch3" Content="switch3" HorizontalAlignment="Left" Margin="141,235,0,0" VerticalAlignment="Top" Click="LedSwitch_Click" Background="LightGray"/>
+        <Button x:Name="LedSwitch4" Content="switch4" HorizontalAlignment="Left" Margin="141,275,0,0" VerticalAlignment="Top" Click="LedSwitch_Click" Background="LightGray"/>
+        <Button x:Name="LedSwitch5" Content="switch5" HorizontalAlignment="Left" Margin="141,315,0,0" VerticalAlignment="Top" Click="LedSwitch_Click" Background="LightGray"/>
+        <Button x:Name="LedSwitch6" Content="switch6" HorizontalAlignment="Left" Margin="141,355,0,0" VerticalAlignment="Top" Click="LedSwitch_Click" Background="LightGray"/>
+        <Button x:Name="LedSwitch7" Content="switch7" HorizontalAlignment="Left" Margin="141,395,0,0" VerticalAlignment="Top" Click="LedSwitch_Click"/>
+    </Grid>
+</Page>
