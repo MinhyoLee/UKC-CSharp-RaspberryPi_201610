@@ -74,14 +74,14 @@ namespace PifaceLedControl
 
             MCP23S17.WritePin(LedAdress[ledNo], toBeLedStatus);
 
-            this.CheckLedStatus(pressedButton, LedAdress[ledNo]);
+            pressedButton.Background = this.CheckLedStatus(pressedButton, LedAdress[ledNo]);
         }
 
-        private void CheckLedStatus(Button pressedButton, byte led)
+        private Brush CheckLedStatus(Button pressedButton, byte led)
         {
             UInt16 Inputs = MCP23S17.ReadRegister16();
 
-            pressedButton.Background = ((Inputs & 1 << led) != 0) ? new SolidColorBrush(Windows.UI.Colors.Red) : new SolidColorBrush(Windows.UI.Colors.LightGray);
+            return ((Inputs & 1 << led) != 0) ? new SolidColorBrush(Windows.UI.Colors.Red) : new SolidColorBrush(Windows.UI.Colors.LightGray);
 
             //LedSwitch0.Background = ((Inputs & 1 << PFDII.LED0) != 0) ? new SolidColorBrush(Windows.UI.Colors.Red) : new SolidColorBrush(Windows.UI.Colors.LightGray);
             //LedSwitch1.Background = ((Inputs & 1 << PFDII.LED1) != 0) ? new SolidColorBrush(Windows.UI.Colors.Red) : new SolidColorBrush(Windows.UI.Colors.LightGray);
