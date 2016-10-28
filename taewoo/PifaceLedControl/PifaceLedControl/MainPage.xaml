@@ -15,6 +15,6 @@
         <Button x:Name="LedSwitch4" Content="switch4" HorizontalAlignment="Left" Margin="141,275,0,0" VerticalAlignment="Top" Click="LedSwitch_Click" Background="LightGray"/>
         <Button x:Name="LedSwitch5" Content="switch5" HorizontalAlignment="Left" Margin="141,315,0,0" VerticalAlignment="Top" Click="LedSwitch_Click" Background="LightGray"/>
         <Button x:Name="LedSwitch6" Content="switch6" HorizontalAlignment="Left" Margin="141,355,0,0" VerticalAlignment="Top" Click="LedSwitch_Click" Background="LightGray"/>
-        <Button x:Name="LedSwitch7" Content="switch7" HorizontalAlignment="Left" Margin="141,395,0,0" VerticalAlignment="Top" Click="LedSwitch_Click"/>
+        <Button x:Name="LedSwitch7" Content="switch7" HorizontalAlignment="Left" Margin="141,395,0,0" VerticalAlignment="Top" Click="LedSwitch_Click" Background="LightGray"/>
     </Grid>
 </Page>

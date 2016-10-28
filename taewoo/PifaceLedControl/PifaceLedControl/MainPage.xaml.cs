@@ -50,7 +50,6 @@ namespace PifaceLedControl
             }
             catch (Exception ex)
             {
-
             }
         }
 
@@ -71,37 +70,10 @@ namespace PifaceLedControl
         private void LedSwitch_Click(object sender, RoutedEventArgs e)
         {
             Button pressedButton = (Button)sender;
-            byte toBeLedStatus = ((SolidColorBrush)pressedButton.Background).Color.Equals(Colors.Red)
-                ? MCP23S17.Off
-                : MCP23S17.On;
+            byte toBeLedStatus = ((SolidColorBrush)pressedButton.Background).Color.Equals(Colors.Red) ? MCP23S17.Off : MCP23S17.On;
+            int ledNo = Convert.ToInt32(pressedButton.Name.Substring(9, 1));
 
-            switch (pressedButton.Name)
-            {
-                case "LedSwitch0":
-                    MCP23S17.WritePin(PFDII.LED0, toBeLedStatus);
-                    break;
-                case "LedSwitch1":
-                    MCP23S17.WritePin(PFDII.LED1, toBeLedStatus);
-                    break;
-                case "LedSwitch2":
-                    MCP23S17.WritePin(PFDII.LED2, toBeLedStatus);
-                    break;
-                case "LedSwitch3":
-                    MCP23S17.WritePin(PFDII.LED3, toBeLedStatus);
-                    break;
-                case "LedSwitch4":
-                    MCP23S17.WritePin(PFDII.LED4, toBeLedStatus);
-                    break;
-                case "LedSwitch5":
-                    MCP23S17.WritePin(PFDII.LED5, toBeLedStatus);
-                    break;
-                case "LedSwitch6":
-                    MCP23S17.WritePin(PFDII.LED6, toBeLedStatus);
-                    break;
-                case "LedSwitch7":
-                    MCP23S17.WritePin(PFDII.LED7, toBeLedStatus);
-                    break;
-            }
+            MCP23S17.WritePin(ledAdress[ledNo], toBeLedStatus);
 
             this.CheckLed();
         }
@@ -118,7 +90,6 @@ namespace PifaceLedControl
             LedSwitch5.Background = ((Inputs & 1 << PFDII.LED5) != 0) ? new SolidColorBrush(Windows.UI.Colors.Red) : new SolidColorBrush(Windows.UI.Colors.LightGray);
             LedSwitch6.Background = ((Inputs & 1 << PFDII.LED6) != 0) ? new SolidColorBrush(Windows.UI.Colors.Red) : new SolidColorBrush(Windows.UI.Colors.LightGray);
             LedSwitch7.Background = ((Inputs & 1 << PFDII.LED7) != 0) ? new SolidColorBrush(Windows.UI.Colors.Red) : new SolidColorBrush(Windows.UI.Colors.LightGray);
-
         }
     }
 }
