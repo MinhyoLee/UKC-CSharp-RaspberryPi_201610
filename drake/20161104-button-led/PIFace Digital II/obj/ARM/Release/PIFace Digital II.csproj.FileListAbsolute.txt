@@ -1,0 +1,409 @@
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\PIFace Digital II.csprojResolveAssemblyReference.cache
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\App.g.i.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\App.g.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\MainPage.g.i.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\MainPage.g.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\XamlTypeInfo.g.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\App.xaml
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\MainPage.xaml
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\App.xbf
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\MainPage.xbf
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\XamlSaveStateFile.xml
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ApplicationInsights.config
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\App.xbf
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\MainPage.xbf
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\PIFace Digital II.xr.xml
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\PIFace Digital II.exe
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\PIFace Digital II.pdb
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\resources.pri
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\AppxManifest.xml
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Adapters.g.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\ApplicationInsights.config
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\AssemblyInfo.g.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\3051_1_Relay_Diagram.jpg
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\Element14 Logo.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\green-led-off-md.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\green-led-on-md.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\green_led-icon.gif
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\led-red-control-md.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\LockScreenLogo.scale-200.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\PIFaceDigitalII.JPG
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\red-led-off-md.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\red-led-on-md.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\red_led-icon.gif
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\Relay_OFF.jpg
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\Relay_ON.jpg
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\RPIWIN10DAC8734 2480x1200.scale-400.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\SPLASH 1650x1080.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\SplashScreen.scale-100.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\SplashScreen.scale-125.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\SplashScreen.scale-150.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\SplashScreen.scale-200.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\SplashScreen.scale-400.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\Square150x150Logo.scale-200.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\Square44x44Logo.scale-200.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\StoreLogo.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Assets\Wide310x150Logo.scale-200.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\ClrCompression.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Data.g.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\Helpers.g.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\ImplTypes.g.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\PIFace Digital II.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\PIFace Digital II.exe
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\PIFace Digital II.ITFProxy.g.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\PIFace Digital II.pdb
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\PIFace Digital II.xr.xml
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\PInvoke.g.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\resources.pri
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\SafeTypes.g.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ilc\SharedStubs.g.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\PIFace Digital II.build.appxrecipe
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\Microsoft.ApplicationInsights.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\Microsoft.ApplicationInsights.PersistenceChannel.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\Microsoft.CSharp.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.ComponentModel.DataAnnotations.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Core.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Net.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Numerics.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Runtime.Serialization.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.ServiceModel.Web.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.ServiceModel.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Windows.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Xml.Linq.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Xml.Serialization.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Xml.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\mscorlib.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\Microsoft.VisualBasic.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\Microsoft.Win32.Primitives.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.AppContext.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Collections.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Collections.Concurrent.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Collections.Immutable.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Collections.NonGeneric.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Collections.Specialized.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.ComponentModel.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.ComponentModel.Annotations.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.ComponentModel.EventBasedAsync.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Data.Common.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Diagnostics.Contracts.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Diagnostics.Debug.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Diagnostics.StackTrace.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Diagnostics.Tools.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Diagnostics.Tracing.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Dynamic.Runtime.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Globalization.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Globalization.Calendars.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Globalization.Extensions.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.IO.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.IO.Compression.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\ClrCompression.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.IO.Compression.ZipFile.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.IO.FileSystem.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.IO.FileSystem.Primitives.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.IO.IsolatedStorage.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.IO.UnmanagedMemoryStream.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Linq.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Linq.Expressions.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Linq.Parallel.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Linq.Queryable.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Net.Http.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Net.Http.Rtc.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Net.NetworkInformation.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Net.Primitives.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Net.Requests.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Net.Sockets.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Net.WebHeaderCollection.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Numerics.Vectors.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Numerics.Vectors.WindowsRuntime.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.ObjectModel.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Private.DataContractSerialization.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Private.Networking.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Private.ServiceModel.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Private.Uri.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Reflection.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Reflection.Context.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Reflection.DispatchProxy.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Reflection.Emit.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Reflection.Emit.ILGeneration.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Reflection.Extensions.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Reflection.Metadata.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Reflection.Primitives.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Reflection.TypeExtensions.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Resources.ResourceManager.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Runtime.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Runtime.Extensions.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Runtime.Handles.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Runtime.InteropServices.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Runtime.Numerics.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Runtime.Serialization.Json.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Runtime.Serialization.Primitives.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Runtime.Serialization.Xml.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Runtime.WindowsRuntime.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Security.Claims.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Security.Principal.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.ServiceModel.Duplex.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.ServiceModel.Http.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.ServiceModel.NetTcp.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.ServiceModel.Primitives.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.ServiceModel.Security.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Text.Encoding.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Text.Encoding.CodePages.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Text.Encoding.Extensions.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Text.RegularExpressions.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Threading.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Threading.Overlapped.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Threading.Tasks.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Threading.Tasks.Dataflow.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Threading.Tasks.Parallel.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Threading.Timer.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Xml.ReaderWriter.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Xml.XDocument.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Xml.XmlDocument.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\System.Xml.XmlSerializer.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\MCP23S17.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\MCP23S17.pdb
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\bin\ARM\Release\MCP23S17.pri
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\PIFace Digital II.exe
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\PIFace Digital II.pdb
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ResourceHandlingTask.state
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\PIFace Digital II.csproj.GenerateResource.Cache
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\priconfig.xml
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\priconfig.xml.intermediate
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\layout.resfiles
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\layout.resfiles.intermediate
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\resources.resfiles
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\resources.resfiles.intermediate
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\pri.resfiles
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\pri.resfiles.intermediate
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\qualifiers.txt
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\qualifiers.txt.intermediate
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ProjectArchitectures.txt
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Properties\Default.rd.xml
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\MCP23S17\Properties\MCP23S17.rd.xml
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\PIFace Digital II.xr.xml
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\AppxManifest.xml
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\PIFace Digital II.pdb
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\MCP23S17.pdb
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\PIFace Digital II.exe
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Microsoft.ApplicationInsights.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Microsoft.ApplicationInsights.PersistenceChannel.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Microsoft.CSharp.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.ComponentModel.DataAnnotations.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Core.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Net.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Numerics.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Runtime.Serialization.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.ServiceModel.Web.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.ServiceModel.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Windows.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Xml.Linq.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Xml.Serialization.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Xml.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\mscorlib.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Microsoft.VisualBasic.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Microsoft.Win32.Primitives.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.AppContext.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Collections.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Collections.Concurrent.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Collections.Immutable.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Collections.NonGeneric.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Collections.Specialized.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.ComponentModel.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.ComponentModel.Annotations.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.ComponentModel.EventBasedAsync.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Data.Common.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Diagnostics.Contracts.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Diagnostics.Debug.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Diagnostics.StackTrace.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Diagnostics.Tools.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Diagnostics.Tracing.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Dynamic.Runtime.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Globalization.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Globalization.Calendars.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Globalization.Extensions.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.IO.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.IO.Compression.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.IO.Compression.ZipFile.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.IO.FileSystem.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.IO.FileSystem.Primitives.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.IO.IsolatedStorage.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.IO.UnmanagedMemoryStream.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Linq.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Linq.Expressions.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Linq.Parallel.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Linq.Queryable.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Net.Http.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Net.Http.Rtc.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Net.NetworkInformation.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Net.Primitives.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Net.Requests.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Net.Sockets.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Net.WebHeaderCollection.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Numerics.Vectors.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Numerics.Vectors.WindowsRuntime.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.ObjectModel.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Private.DataContractSerialization.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Private.Networking.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Private.ServiceModel.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Private.Uri.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Reflection.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Reflection.Context.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Reflection.DispatchProxy.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Reflection.Emit.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Reflection.Emit.ILGeneration.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Reflection.Extensions.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Reflection.Metadata.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Reflection.Primitives.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Reflection.TypeExtensions.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Resources.ResourceManager.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Runtime.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Runtime.Extensions.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Runtime.Handles.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Runtime.InteropServices.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Runtime.Numerics.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Runtime.Serialization.Json.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Runtime.Serialization.Primitives.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Runtime.Serialization.Xml.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Runtime.WindowsRuntime.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Security.Claims.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Security.Principal.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.ServiceModel.Duplex.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.ServiceModel.Http.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.ServiceModel.NetTcp.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.ServiceModel.Primitives.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.ServiceModel.Security.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Text.Encoding.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Text.Encoding.CodePages.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Text.Encoding.Extensions.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Text.RegularExpressions.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Threading.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Threading.Overlapped.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Threading.Tasks.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Threading.Tasks.Dataflow.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Threading.Tasks.Parallel.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Threading.Timer.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Xml.ReaderWriter.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Xml.XDocument.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Xml.XmlDocument.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\System.Xml.XmlSerializer.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\MCP23S17.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\WinMetadata\Windows.winmd
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\resources.pri
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\ClrCompression.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\ApplicationInsights.config
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\3051_1_Relay_Diagram.jpg
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\PIFaceDigitalII.JPG
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\Relay_OFF.jpg
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\Relay_ON.jpg
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\Element14 Logo.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\green-led-off-md.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\green-led-on-md.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\led-red-control-md.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\red-led-off-md.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\red-led-on-md.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\RPIWIN10DAC8734 2480x1200.scale-400.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\SPLASH 1650x1080.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\SplashScreen.scale-100.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\SplashScreen.scale-125.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\SplashScreen.scale-150.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\SplashScreen.scale-400.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\LockScreenLogo.scale-200.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\SplashScreen.scale-200.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\Square150x150Logo.scale-200.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\Square44x44Logo.scale-200.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\StoreLogo.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\Wide310x150Logo.scale-200.png
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\green_led-icon.gif
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\in\Assets\red_led-icon.gif
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc.PIFace Digital II.rsp
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\BuildInfo\BuildInfo.rc
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\BuildInfo\BuildInfo.res
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\BuildInfo\BuildInfo.txt
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\gkargs.rsp
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\MCP23S17.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\MCP23S17.ilpdb
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\Microsoft.ApplicationInsights.Extensibility.Windows.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\Microsoft.ApplicationInsights.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\Microsoft.ApplicationInsights.PersistenceChannel.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\Microsoft.Win32.Primitives.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\PIFace Digital II.closure.csv
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\PIFace Digital II.csv
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\PIFace Digital II.forwarders.csv
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\PIFace Digital II.ilexe
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\PIFace Digital II.ilexe.ILTransformTask.repro
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\PIFace Digital II.ilpdb
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\PIFace Digital II.McgInterop.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\PIFace Digital II.McgInterop.ilpdb
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\PIFace Digital II.metadata
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\PIFace Digital II.reflectionlog.csv
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\PIFace Digital II.res
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.AppContext.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Collections.NonGeneric.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Collections.Specialized.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.ComponentModel.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Data.Common.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Diagnostics.StackTrace.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Diagnostics.Tools.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Globalization.Extensions.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.IO.Compression.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.Primitives.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.IO.IsolatedStorage.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.IO.UnmanagedMemoryStream.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Net.Http.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Net.Requests.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Net.WebHeaderCollection.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ilpdb
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Private.Networking.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ilpdb
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ilpdb
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ilpdb
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Runtime.Handles.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Runtime.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Primitives.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.UI.Xaml.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Security.Claims.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Security.Principal.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.CodePages.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Threading.Overlapped.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.Parallel.ildll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\MDIL\PIFace Digital II.mdilexe
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\MDIL\PIFace Digital II.mdilpdb
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\MDIL\PIFace Digital II.rsp
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\Native.res
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\Native\PIFace Digital II.pdb
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\PIFace Digital II.ITFProxy.g.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\PIFace Digital II.McgInterop.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\PIFace Digital II.McgInterop.pdb
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\PIFace Digital II.McgInterop\Adapters.g.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\PIFace Digital II.McgInterop\AssemblyInfo.g.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\PIFace Digital II.McgInterop\Data.g.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\PIFace Digital II.McgInterop\Helpers.g.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\PIFace Digital II.McgInterop\ImplTypes.g.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\PIFace Digital II.McgInterop\PInvoke.g.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\PIFace Digital II.McgInterop\SafeTypes.g.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\PIFace Digital II.McgInterop\SharedStubs.g.cs
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed\PIFace Digital II.exe
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed\PIFace Digital II.pdb
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\rhbindargs.PIFace Digital II.rsp
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\sgargs.rsp
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll
+D:\Downloads\PIFace Digital II\PIFace Digital II\PIFace Digital II\obj\ARM\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll.ILTransformTask.repro
