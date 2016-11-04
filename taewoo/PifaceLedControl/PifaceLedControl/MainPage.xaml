@@ -17,5 +17,6 @@
         <Button x:Name="LedSwitch6" Content="switch6" HorizontalAlignment="Left" Margin="141,355,0,0" VerticalAlignment="Top" Click="LedSwitch_Click" Background="LightGray"/>
         <Button x:Name="LedSwitch7" Content="switch7" HorizontalAlignment="Left" Margin="141,395,0,0" VerticalAlignment="Top" Click="LedSwitch_Click" Background="LightGray"/>
         <Button x:Name="blinkAll" Content="switch7" HorizontalAlignment="Left" Margin="141,448,0,0" VerticalAlignment="Top" Click="LedSwitch_Click" Background="LightGray"/>
+        <TextBox x:Name="txtButtonStatusS" HorizontalAlignment="Left" Margin="141,529,0,0" TextWrapping="Wrap" Text="??" VerticalAlignment="Top"/>
     </Grid>
 </Page>

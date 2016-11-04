@@ -29,12 +29,47 @@ namespace PifaceLedControl
             set;
         }
 
+        private DispatcherTimer timer;         // create a timer
+
         public MainPage()
         {
             this.InitializeComponent();
 
             this.InitSPI();
             this.InitLedAdress();
+            this.initTimer();
+        }
+
+        private void initTimer()
+        {
+            // read timer
+            timer = new DispatcherTimer();
+            timer.Interval = TimeSpan.FromMilliseconds(200); //sample every 200mS
+            timer.Tick += Timer_Tick;
+            timer.Start();
+        }
+
+        private void Timer_Tick(object sender, object e)
+        {
+            //checked Button status
+            UInt16 Inputs = MCP23S17.ReadRegister16();
+
+            if ((Inputs & 1 << PFDII.Sw0) == 0
+                || (Inputs & 1 << PFDII.Sw1) == 0
+                || (Inputs & 1 << PFDII.Sw2) == 0
+                || (Inputs & 1 << PFDII.Sw3) == 0
+                )
+            {
+                txtButtonStatusS.Text = "버튼눌림";
+                MCP23S17.WritePin(LedAdress[0], MCP23S17.On);
+                this.CheckLedStatus(LedAdress[0]);
+            }
+            else
+            {
+                txtButtonStatusS.Text = "";
+                MCP23S17.WritePin(LedAdress[0], MCP23S17.Off);
+                this.CheckLedStatus(LedAdress[0]);
+            }
         }
 
         private async void InitSPI()
@@ -74,23 +109,21 @@ namespace PifaceLedControl
 
             MCP23S17.WritePin(LedAdress[ledNo], toBeLedStatus);
 
-            pressedButton.Background = this.CheckLedStatus(pressedButton, LedAdress[ledNo]);
+            pressedButton.Background = this.CheckLedStatus(LedAdress[ledNo]);
         }
 
-        private Brush CheckLedStatus(Button pressedButton, byte led)
+        private Brush CheckLedStatus(byte led)
         {
             UInt16 Inputs = MCP23S17.ReadRegister16();
 
             return ((Inputs & 1 << led) != 0) ? new SolidColorBrush(Windows.UI.Colors.Red) : new SolidColorBrush(Windows.UI.Colors.LightGray);
+        }
 
-            //LedSwitch0.Background = ((Inputs & 1 << PFDII.LED0) != 0) ? new SolidColorBrush(Windows.UI.Colors.Red) : new SolidColorBrush(Windows.UI.Colors.LightGray);
-            //LedSwitch1.Background = ((Inputs & 1 << PFDII.LED1) != 0) ? new SolidColorBrush(Windows.UI.Colors.Red) : new SolidColorBrush(Windows.UI.Colors.LightGray);
-            //LedSwitch2.Background = ((Inputs & 1 << PFDII.LED2) != 0) ? new SolidColorBrush(Windows.UI.Colors.Red) : new SolidColorBrush(Windows.UI.Colors.LightGray);
-            //LedSwitch3.Background = ((Inputs & 1 << PFDII.LED3) != 0) ? new SolidColorBrush(Windows.UI.Colors.Red) : new SolidColorBrush(Windows.UI.Colors.LightGray);
-            //LedSwitch4.Background = ((Inputs & 1 << PFDII.LED4) != 0) ? new SolidColorBrush(Windows.UI.Colors.Red) : new SolidColorBrush(Windows.UI.Colors.LightGray);
-            //LedSwitch5.Background = ((Inputs & 1 << PFDII.LED5) != 0) ? new SolidColorBrush(Windows.UI.Colors.Red) : new SolidColorBrush(Windows.UI.Colors.LightGray);
-            //LedSwitch6.Background = ((Inputs & 1 << PFDII.LED6) != 0) ? new SolidColorBrush(Windows.UI.Colors.Red) : new SolidColorBrush(Windows.UI.Colors.LightGray);
-            //LedSwitch7.Background = ((Inputs & 1 << PFDII.LED7) != 0) ? new SolidColorBrush(Windows.UI.Colors.Red) : new SolidColorBrush(Windows.UI.Colors.LightGray);
+
+
+        private void ButtonClick()
+        {
+
         }
     }
 }
