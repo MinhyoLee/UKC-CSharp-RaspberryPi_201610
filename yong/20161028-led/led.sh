@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 cd /sys/class/gpio
 if [ ! -d "gpio4" ];then
@@ -15,7 +15,7 @@ echo out > gpio4/direction
 echo out > gpio5/direction
 echo out > gpio6/direction
 
-while true
+for i in {0..4}
 do
     echo 1 > gpio4/value
     sleep 1
