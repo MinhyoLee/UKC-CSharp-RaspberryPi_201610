@@ -1,15 +1,21 @@
 #!/bin/bash
 
 cd /sys/class/gpio
-if [ ! -d "gpio4" ];then
-    echo 4 > export
+
+if [ -d "gpio4" ];then
+    echo 4 > unexport
 fi
-if [ ! -d "gpio5" ];then
-    echo 5 > export
+echo 4 > export
+
+if [ -d "gpio5" ];then
+    echo 5 > unexport
 fi
-if [ ! -d "gpio6" ];then
-    echo 6 > export
+echo 5 > export
+
+if [ -d "gpio6" ];then
+    echo 6 > unexport
 fi
+echo 6 > export
 
 echo out > gpio4/direction
 echo out > gpio5/direction
@@ -30,3 +36,7 @@ do
     echo 0 > gpio6/value
     sleep 1
 done
+
+echo 4 > unexport
+echo 5 > unexport
+echo 6 > unexport
