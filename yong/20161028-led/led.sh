@@ -1,9 +1,15 @@
-#!/usr/bin/sh
+#!/bin/sh
 
 cd /sys/class/gpio
-echo 4 > export
-echo 5 > export
-echo 6 > export
+if [ ! -d "gpio4" ];then
+    echo 4 > export
+fi
+if [ ! -d "gpio5" ];then
+    echo 5 > export
+fi
+if [ ! -d "gpio6" ];then
+    echo 6 > export
+fi
 
 echo out > gpio4/direction
 echo out > gpio5/direction
