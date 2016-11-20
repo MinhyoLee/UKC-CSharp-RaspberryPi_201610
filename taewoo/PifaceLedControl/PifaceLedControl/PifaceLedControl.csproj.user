@@ -5,6 +5,6 @@
     <UseEmulator>false</UseEmulator>
     <RemoteDebugEnabled>true</RemoteDebugEnabled>
     <AuthenticationMode>Universal</AuthenticationMode>
-    <RemoteDebugMachine>minwinpc</RemoteDebugMachine>
+    <RemoteDebugMachine>192.168.137.50</RemoteDebugMachine>
   </PropertyGroup>
 </Project>

@@ -100,6 +100,7 @@
     </Compile>
     <Compile Include="mcp23s17.cs" />
     <Compile Include="pifacedigital2.cs" />
+    <Compile Include="PiWebServer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

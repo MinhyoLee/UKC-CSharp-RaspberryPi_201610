@@ -23,11 +23,7 @@ namespace PifaceLedControl
     /// </summary>
     public sealed partial class MainPage : Page
     {
-        private byte[] LedAdress
-        {
-            get;
-            set;
-        }
+        public PiWebServer _webServer;
 
         private DispatcherTimer timer;         // create a timer
 
@@ -36,11 +32,17 @@ namespace PifaceLedControl
             this.InitializeComponent();
 
             this.InitSPI();
-            this.InitLedAdress();
-            this.initTimer();
+            this.InitTimer();
+            this.InitWebserver();
         }
 
-        private void initTimer()
+        private void InitWebserver()
+        {
+            _webServer = new PiWebServer();
+            _webServer.Initialise();
+        }
+
+        private void InitTimer()
         {
             // read timer
             timer = new DispatcherTimer();
@@ -61,14 +63,14 @@ namespace PifaceLedControl
                 )
             {
                 txtButtonStatusS.Text = "버튼눌림";
-                MCP23S17.WritePin(LedAdress[0], MCP23S17.On);
-                this.CheckLedStatus(LedAdress[0]);
+                MCP23S17.WritePin(PFDII.LedAdress[0], MCP23S17.On);
+                this.CheckLedStatus(PFDII.LedAdress[0]);
             }
             else
             {
                 txtButtonStatusS.Text = "";
-                MCP23S17.WritePin(LedAdress[0], MCP23S17.Off);
-                this.CheckLedStatus(LedAdress[0]);
+                MCP23S17.WritePin(PFDII.LedAdress[0], MCP23S17.Off);
+                this.CheckLedStatus(PFDII.LedAdress[0]);
             }
         }
 
@@ -88,18 +90,7 @@ namespace PifaceLedControl
             }
         }
 
-        private void InitLedAdress()
-        {
-            LedAdress = new byte[8];
-            LedAdress[0] = PFDII.LED0;
-            LedAdress[1] = PFDII.LED1;
-            LedAdress[2] = PFDII.LED2;
-            LedAdress[3] = PFDII.LED3;
-            LedAdress[4] = PFDII.LED4;
-            LedAdress[5] = PFDII.LED5;
-            LedAdress[6] = PFDII.LED6;
-            LedAdress[7] = PFDII.LED7;
-        }
+        
 
         private void LedSwitch_Click(object sender, RoutedEventArgs e)
         {
@@ -107,9 +98,9 @@ namespace PifaceLedControl
             byte toBeLedStatus = ((SolidColorBrush)pressedButton.Background).Color.Equals(Colors.Red) ? MCP23S17.Off : MCP23S17.On;
             int ledNo = Convert.ToInt32(pressedButton.Name.Substring(9, 1));
 
-            MCP23S17.WritePin(LedAdress[ledNo], toBeLedStatus);
+            MCP23S17.WritePin(PFDII.LedAdress[ledNo], toBeLedStatus);
 
-            pressedButton.Background = this.CheckLedStatus(LedAdress[ledNo]);
+            pressedButton.Background = this.CheckLedStatus(PFDII.LedAdress[ledNo]);
         }
 
         private Brush CheckLedStatus(byte led)
@@ -117,13 +108,6 @@ namespace PifaceLedControl
             UInt16 Inputs = MCP23S17.ReadRegister16();
 
             return ((Inputs & 1 << led) != 0) ? new SolidColorBrush(Windows.UI.Colors.Red) : new SolidColorBrush(Windows.UI.Colors.LightGray);
-        }
-
-
-
-        private void ButtonClick()
-        {
-
         }
     }
 }
