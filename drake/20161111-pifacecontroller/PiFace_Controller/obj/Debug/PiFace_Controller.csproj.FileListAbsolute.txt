@@ -1,0 +1,9 @@
+c:\users\kelve\documents\visual studio 2015\Projects\PiFace_Controller\PiFace_Controller\bin\Debug\PiFace_Controller.exe.config
+c:\users\kelve\documents\visual studio 2015\Projects\PiFace_Controller\PiFace_Controller\bin\Debug\PiFace_Controller.exe
+c:\users\kelve\documents\visual studio 2015\Projects\PiFace_Controller\PiFace_Controller\bin\Debug\PiFace_Controller.pdb
+c:\users\kelve\documents\visual studio 2015\Projects\PiFace_Controller\PiFace_Controller\obj\Debug\PiFace_Controller.csprojResolveAssemblyReference.cache
+c:\users\kelve\documents\visual studio 2015\Projects\PiFace_Controller\PiFace_Controller\obj\Debug\PiFace_Controller.Form1.resources
+c:\users\kelve\documents\visual studio 2015\Projects\PiFace_Controller\PiFace_Controller\obj\Debug\PiFace_Controller.Properties.Resources.resources
+c:\users\kelve\documents\visual studio 2015\Projects\PiFace_Controller\PiFace_Controller\obj\Debug\PiFace_Controller.csproj.GenerateResource.Cache
+c:\users\kelve\documents\visual studio 2015\Projects\PiFace_Controller\PiFace_Controller\obj\Debug\PiFace_Controller.exe
+c:\users\kelve\documents\visual studio 2015\Projects\PiFace_Controller\PiFace_Controller\obj\Debug\PiFace_Controller.pdb
