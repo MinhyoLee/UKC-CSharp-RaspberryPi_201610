@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIFace Digital II", "PIFace Digital II\PIFace Digital II.csproj", "{46AFDB35-A553-4FFD-998D-39450BE7B52F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCP23S17", "MCP23S17\MCP23S17.csproj", "{F885C334-1F9A-495C-B765-4D74218D3321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46AFDB35-A553-4FFD-998D-39450BE7B52F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{46AFDB35-A553-4FFD-998D-39450BE7B52F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{46AFDB35-A553-4FFD-998D-39450BE7B52F}.Debug|ARM.Build.0 = Debug|ARM
+		{46AFDB35-A553-4FFD-998D-39450BE7B52F}.Debug|ARM.Deploy.0 = Debug|ARM
+		{46AFDB35-A553-4FFD-998D-39450BE7B52F}.Debug|x64.ActiveCfg = Debug|x64
+		{46AFDB35-A553-4FFD-998D-39450BE7B52F}.Debug|x64.Build.0 = Debug|x64
+		{46AFDB35-A553-4FFD-998D-39450BE7B52F}.Debug|x64.Deploy.0 = Debug|x64
+		{46AFDB35-A553-4FFD-998D-39450BE7B52F}.Debug|x86.ActiveCfg = Debug|x86
+		{46AFDB35-A553-4FFD-998D-39450BE7B52F}.Debug|x86.Build.0 = Debug|x86
+		{46AFDB35-A553-4FFD-998D-39450BE7B52F}.Debug|x86.Deploy.0 = Debug|x86
+		{46AFDB35-A553-4FFD-998D-39450BE7B52F}.Release|Any CPU.ActiveCfg = Release|x86
+		{46AFDB35-A553-4FFD-998D-39450BE7B52F}.Release|ARM.ActiveCfg = Release|ARM
+		{46AFDB35-A553-4FFD-998D-39450BE7B52F}.Release|ARM.Build.0 = Release|ARM
+		{46AFDB35-A553-4FFD-998D-39450BE7B52F}.Release|ARM.Deploy.0 = Release|ARM
+		{46AFDB35-A553-4FFD-998D-39450BE7B52F}.Release|x64.ActiveCfg = Release|x64
+		{46AFDB35-A553-4FFD-998D-39450BE7B52F}.Release|x64.Build.0 = Release|x64
+		{46AFDB35-A553-4FFD-998D-39450BE7B52F}.Release|x64.Deploy.0 = Release|x64
+		{46AFDB35-A553-4FFD-998D-39450BE7B52F}.Release|x86.ActiveCfg = Release|x86
+		{46AFDB35-A553-4FFD-998D-39450BE7B52F}.Release|x86.Build.0 = Release|x86
+		{46AFDB35-A553-4FFD-998D-39450BE7B52F}.Release|x86.Deploy.0 = Release|x86
+		{F885C334-1F9A-495C-B765-4D74218D3321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F885C334-1F9A-495C-B765-4D74218D3321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F885C334-1F9A-495C-B765-4D74218D3321}.Debug|ARM.ActiveCfg = Debug|ARM
+		{F885C334-1F9A-495C-B765-4D74218D3321}.Debug|ARM.Build.0 = Debug|ARM
+		{F885C334-1F9A-495C-B765-4D74218D3321}.Debug|x64.ActiveCfg = Debug|x64
+		{F885C334-1F9A-495C-B765-4D74218D3321}.Debug|x64.Build.0 = Debug|x64
+		{F885C334-1F9A-495C-B765-4D74218D3321}.Debug|x86.ActiveCfg = Debug|x86
+		{F885C334-1F9A-495C-B765-4D74218D3321}.Debug|x86.Build.0 = Debug|x86
+		{F885C334-1F9A-495C-B765-4D74218D3321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F885C334-1F9A-495C-B765-4D74218D3321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F885C334-1F9A-495C-B765-4D74218D3321}.Release|ARM.ActiveCfg = Release|ARM
+		{F885C334-1F9A-495C-B765-4D74218D3321}.Release|ARM.Build.0 = Release|ARM
+		{F885C334-1F9A-495C-B765-4D74218D3321}.Release|x64.ActiveCfg = Release|x64
+		{F885C334-1F9A-495C-B765-4D74218D3321}.Release|x64.Build.0 = Release|x64
+		{F885C334-1F9A-495C-B765-4D74218D3321}.Release|x86.ActiveCfg = Release|x86
+		{F885C334-1F9A-495C-B765-4D74218D3321}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
